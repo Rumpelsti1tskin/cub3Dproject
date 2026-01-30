@@ -8,10 +8,11 @@
 
 ## ✨ Files included
 
+- Cub3D Subject file
 - Makefile
 - cub.h header file
 - .c code files
-- minilibix library folder
+- minilibx library folder
 - textures folder
 
 ---
@@ -35,7 +36,7 @@
 
 ## 🌟 Additional information
 
-- You need additional minilibix library to launch the project
+- Only main part of the Subject is implemented
 - Textures are located in "textures" folder. You may use your own textures (width : 64, height : 64, format : .xpm)
 - You may change the map and colors by changing cub.cub file
 - Have fun!
